@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VIT Universal Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_regno">Registration Number</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_password">Password</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="errmsg_registration_unsuccessful">Registration could not be completed at this time. Please try again later.</string>
+    <string name="errmsg_rare_error">An error with a one-in-a-million chance just occurred. Just try again.</string>
+    <string name="errmsg_duplicate_user">You already exist in our database! Forgot your password?</string>
+    <string name="errmsg_no_internet">Please connect to the internet</string>
+    <string name="errmsg_bad_gateway">Bad Gateway</string>
+    <string name="errmsg_bad_request">Bad Request</string>
+    <string name="errmsg_request_timeout">Request Timed Out</string>
+    <string name="errmsg_no_user">That user doesn\'t exist. Please register first</string>
+    <string name="errmsg_bad_pass">Wrong password</string>
+    <string name="errmsg_empty_required_fields">Please fill in the required fields.</string>
+    <string name="errmsg_http_forbidden">Request Forbidden</string>
+    <string name="errmsg_gateway_timeout">Gateway Timeout</string>
+    <string name="errmsg_gcm_fail">GCM Registration Failed</string>
+    <string name="errmsg_play_services">Please install latest Google Play Services</string>
+    
+</resources>

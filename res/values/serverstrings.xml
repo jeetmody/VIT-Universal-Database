@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    <string name="SERVER_URL">http://192.168.56.1/vitud/</string>
+    <string name="REGISTER_URL">http://192.168.56.1/vitud/register_user.php</string>
+    <string name="LOGIN_URL">http://192.168.56.1/vitud/login_user.php</string> 
+    <string name="REGISTER_GCM_URL">http://192.168.56.1/vitud/register_gcm.php</string>
+   	
+    <!-- 
+    <string name="SERVER_URL">http://operationstomoney.bl.ee/</string>
+    <string name="REGISTER_URL">http://operationstomoney.bl.ee/register_user.php</string>
+    <string name="LOGIN_URL">http://operationstomoney.bl.ee/login_user.php</string> 
+	-->
+</resources>
